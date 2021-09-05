@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/blog.html
 
 ```
-![View from the peak of Surak mountain, Seoul, Korean](welcome_files/front_page.JPG)  
+![View from the peak of Surak mountain, Seoul, Korea](welcome_files/front_page.JPG)  
 
 I'm Korean by birth but grew up in several different countries (Scotland, 
 Kyrgyzstan, and Germany). I graduated from Knox College and I also have an MD 
