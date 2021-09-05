@@ -1,0 +1,9 @@
+---
+title: "About this blog"
+description: |
+  This is an optional assignment for PH140.776 Statistical Computing.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

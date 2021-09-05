@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome",
+    "description": "Hello! I'm a graduate student at the Bloomberg School of Public Health,\ndoing research in infectious diseases.",
+    "author": [
+      {
+        "name": "Tim Lee, MD",
+        "url": "https://www.linkedin.com/in/jaehyoungtlee/"
+      }
+    ],
+    "date": "2021-09-05",
+    "categories": [],
+    "contents": "\nView from the peak of Surak mountain, Seoul, KoreanI’m Korean by birth but grew up in several different countries (Scotland, Kyrgyzstan, and Germany). I graduated from Knox College and I also have an MD from the Medical School for International Health in Be’er Sheva, Israel. I started taking programming courses in graduate school because I think it’s the language of the future.\nHere are some fun facts about ME:\n1. I speak 4-ish languages. English, Korean, Russian, and hospital Hebrew.\n2. I was a medic in the Korean Air Force, but I have a special skills badge from the US army.\n3. I taught myself how to play the ukulele - it’s still a work in progress.\n4. I have played Ultiamte Frisbee around the world, representing two national teams.\n5. My legal name is Jae Hyoung Lee, but I’ve been going by Tim since I was 4.\nRecently, I’ve been fascinated by data visualization and presenting numbers/statistics in an easily digestible way. Gapminder is an organization founded by Hans Rosling and his children that does this particularly well.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-05T16:51:39-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-09-05-4yokorean/",
+    "title": "Why 4-year old Korean?",
+    "description": "This is the first blog post I wrote while I was in the Korean military.",
+    "author": [
+      {
+        "name": "Tim Lee, MD",
+        "url": "https://www.linkedin.com/in/jaehyoungtlee/"
+      }
+    ],
+    "date": "2017-03-16",
+    "categories": [],
+    "contents": "\nI’ve been meaning to start a blog for a while. I figured it would be a good way to keep track of my experience and let the world know what I was up to in the military. Every couple weeks, I would tell myself that I was going to write a blog entry. Sometimes, I would even start writing. But they never materialized to much. I mean, words were put on paper but they were never made public. Monday marked one year since I was drafted. That means I have one year left. That’s 8,760 hours or 525,600 minutes, which doesn’t seem like much when spelled out like that. But it sure feels like forever. My one-year resolution is to write and post regularly. We’ll see how this goes.\nWhy is this blog called the 4 year old Korean? Simply put it’s because I’ve lived in Korea for 4 years. I was born in Korea and lived the first 4 years of my life in Korea. Then, my family moved to Scotland, where my dad got his master’s at the University of Edinburgh and I went to the same elementary school as Sean Connery. And obviously learning English with a sexy Scottish accent. Kind of like the Starburst contradiction.\nTwo years later, we were in Kyrgyzstan, where I my parents worked as missionaries and I spent most of my childhood trying to fit in. In 8th grade, I started attending a missionary kid’s boarding school in Germany, where I learned how not to be Korean. After graduating from high school, I followed my friends to the US to attend college. Four years later, I was following my dreams to become a doctor by going to an American medical school in Israel.\nAs I was finishing fourth year of medical school, it became evident that the Korean government wouldn’t let me off the hook. I was going to have to enlist. I hadn’t lived in Korea since I left at the age of 4. I did visit over summer breaks for a month or so at a time and I even spent a semester of 3rd grade in a Korean elementary school. So technically, I’ve lived in Korea for more than 4 years. But I definitely didn’t feel Korean. And I didn’t have many Korean friends. A year later, I feel even less Korean than I did when I enlisted. And I can’t say that I’ve gained a lot of Korean friends. Living in Korea, I’ve often felt like a 4 year old trying to navigate a bazaar without speaking the language. Though this may be my country of birth, it is a bizarre place with a culture that sometimes doesn’t seem to make a whole lot of sense. This blog is me trying to understand Korea, its people, and its culture.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-05T16:27:16-04:00",
+    "input_file": {}
+  }
+]

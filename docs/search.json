@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "This is an optional assignment for PH140.776 Statistical Computing.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-05T16:53:13-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "4yokorean",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-05T16:53:14-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
