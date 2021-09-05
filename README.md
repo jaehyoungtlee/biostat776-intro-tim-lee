@@ -1,2 +1,2 @@
-# biostat776-intro-tim-lee
-Project 0
+# Introducing myself
+This website contains a short introduciton of Tim Lee.
